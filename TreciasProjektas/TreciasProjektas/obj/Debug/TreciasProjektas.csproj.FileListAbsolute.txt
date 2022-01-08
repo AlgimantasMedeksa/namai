@@ -1,7 +1,0 @@
-C:\Users\Algis\source\repos\TreciasProjektas\TreciasProjektas\bin\Debug\TreciasProjektas.exe.config
-C:\Users\Algis\source\repos\TreciasProjektas\TreciasProjektas\bin\Debug\TreciasProjektas.exe
-C:\Users\Algis\source\repos\TreciasProjektas\TreciasProjektas\bin\Debug\TreciasProjektas.pdb
-C:\Users\Algis\source\repos\TreciasProjektas\TreciasProjektas\obj\Debug\TreciasProjektas.csproj.AssemblyReference.cache
-C:\Users\Algis\source\repos\TreciasProjektas\TreciasProjektas\obj\Debug\TreciasProjektas.csproj.CoreCompileInputs.cache
-C:\Users\Algis\source\repos\TreciasProjektas\TreciasProjektas\obj\Debug\TreciasProjektas.exe
-C:\Users\Algis\source\repos\TreciasProjektas\TreciasProjektas\obj\Debug\TreciasProjektas.pdb
